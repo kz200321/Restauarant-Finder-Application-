@@ -1,0 +1,39 @@
+  {
+  "project_info": {
+    "project_number": "1089288669588",
+    "project_id": "compromise19",
+    "storage_bucket": "compromise19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089288669588:android:dee70e06616b2a3481e781",
+        "android_client_info": {
+          "package_name": "com.example.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089288669588-k24q9r462o86ke2nqocdg2lbq3kih4vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRzjzMv7ej902D9szyz8ldhQAWiINL_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089288669588-k24q9r462o86ke2nqocdg2lbq3kih4vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
